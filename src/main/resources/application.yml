@@ -1,0 +1,6 @@
+app:
+  name: sandbox
+  timeout-seconds: 30
+  retry:
+    enabled: true
+    max-attempts: 3
